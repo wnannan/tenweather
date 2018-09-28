@@ -212,7 +212,7 @@ footer p {
 	/*height: 13.34rem;*/
 	background-color: #fff;
 	transition: height 0.5s;
-	/*display: none;*/
+	display: none;
 }
 .topwrapper-top {
 	width: 7.5rem;
