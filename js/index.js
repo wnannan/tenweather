@@ -191,10 +191,10 @@
 				for(let j in city[i]){
 					if(text==j){
 						ajaxs(text);
+						return;
 					}
 				}
 			}
-			alert("该城市不存在!");
 			
 		})
 	
